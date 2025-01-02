@@ -1,0 +1,10 @@
+langchain
+streamlit
+FastAPI
+langchain_community
+HuggingFace
+langchain_groq
+faiss-cpu
+python-dotenv
+langchain_core
+langchain_huggingface
